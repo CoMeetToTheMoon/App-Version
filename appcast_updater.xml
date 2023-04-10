@@ -5,10 +5,10 @@
     <item>
         <title>Version 1.1.1</title>
         <description>
-<![CDATA[Nouveautés :
-  - Patch
-  - Recherches de créateurs par filtres
-  - Lien cliquables]]>
+        <![CDATA[Nouveautés :
+          - Patch
+          - Recherches de créateurs par filtres
+          - Lien cliquables]]>
         </description>
         <sparkle:version>1.1.4</sparkle:version>
         <sparkle:tags>
