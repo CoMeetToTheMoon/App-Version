@@ -6,7 +6,7 @@
         <title>Version 1.1.1</title>
         <link>https://myproductwebsite.com</link>
         <sparkle:version>1.1.1</sparkle:version>
-        <sparkle:minimumAutoupdateVersion>1.1.0</sparkle:minimumAutoupdateVersion>
+        <sparkle:minimumAutoupdateVersion>1.0.0</sparkle:minimumAutoupdateVersion>
         <sparkle:ignoreSkippedUpgradesBelowVersion>1.1.0</sparkle:ignoreSkippedUpgradesBelowVersion>
     </item>
     <!-- Si l'utilisateur à une version 1.0.0 l'update va etre triggered -->
