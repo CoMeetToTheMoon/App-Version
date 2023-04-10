@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
+    <!-- Si l'utilisateur à une version 1.0.0 l'update va etre triggered, si c'est une version 1.1.0 elle ne va pas l'être -->
+    <item>
+        <title>Version 1.1.1</title>
+        <link>https://myproductwebsite.com</link>
+        <sparkle:version>1.1.1</sparkle:version>
+        <sparkle:minimumAutoupdateVersion>1.0.0</sparkle:minimumAutoupdateVersion>
+        <sparkle:ignoreSkippedUpgradesBelowVersion>1.1.0</sparkle:ignoreSkippedUpgradesBelowVersion>
+    </item>
+    <!-- Si l'utilisateur à une version 1.0.0 l'update va etre triggered -->
     <item>
         <title>Version 1.1.0</title>
         <link>https://allmylinks.com/comeet</link>
