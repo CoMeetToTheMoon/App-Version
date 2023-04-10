@@ -5,9 +5,9 @@
     <item>
         <title>Version 1.1.1</title>
         <description>Nouveautés :\n - Implémentation des sondages\n - Lien cliquables\n - Recherche d'utilisateurs ouvert à la collaboration\n - Et bien plus encore</description>
-        <sparkle:version>1.1.1</sparkle:version>
+        <sparkle:version>1.1.2</sparkle:version>
         <sparkle:minimumAutoupdateVersion>1.1.1</sparkle:minimumAutoupdateVersion>
-        <sparkle:ignoreSkippedUpgradesBelowVersion>1.1.0</sparkle:ignoreSkippedUpgradesBelowVersion>
+        <sparkle:ignoreSkippedUpgradesBelowVersion>1.1.1</sparkle:ignoreSkippedUpgradesBelowVersion>
     </item>
     <!-- Si l'utilisateur à une version 1.0.0 l'update va etre triggered -->
     <item>
