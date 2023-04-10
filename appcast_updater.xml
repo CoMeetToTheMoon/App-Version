@@ -4,9 +4,11 @@
     <!-- Si l'utilisateur à une version 1.0.0 l'update va etre triggered, si c'est une version 1.1.0 elle ne va pas l'être -->
     <item>
         <title>Version 1.1.1</title>
+        <description>
         <![CDATA[Nouveautés :
   - Patch d'un problème avec les sondages
   - Patchs et correctifs de problèmes mineurs]]>
+        </description>
         <sparkle:version>1.1.1</sparkle:version>
         <sparkle:minimumAutoupdateVersion>1.0.0</sparkle:minimumAutoupdateVersion>
         <sparkle:ignoreSkippedUpgradesBelowVersion>1.1.0</sparkle:ignoreSkippedUpgradesBelowVersion>
